@@ -1,0 +1,18 @@
+#Ignoring output files
+*.o*
+*.d
+#Ignore ctags
+tags
+*.eww
+#Ignore example hex file directory
+hex/
+#Ignore Keil Arm directories
+arm4/
+arm5_no_packs/
+#Ignore IAR directories
+iar/
+
+#Ignore ses directories
+ses/
+#ignore *.em*
+*.em*
